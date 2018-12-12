@@ -1,2 +1,2 @@
-# hello-world
-to know hiw to use github
+#learning to change
+how to make changes in branches
